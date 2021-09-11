@@ -17,7 +17,7 @@
         <script src="{{ mix('js/vendor.js') }}" defer></script>
         <script src="{{ mix('js/app.js') }}" defer></script>
     </head>
-    <body class="antialiased bg-indigo-200">
+    <body class="antialiased">
         <div id="app">
             <my-component />
         </div>

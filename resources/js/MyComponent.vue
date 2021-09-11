@@ -1,5 +1,5 @@
 <template>
-    <div class="flex bg-yellow-300">
+    <div class="flex">
         Hello there
     </div>
 </template>
